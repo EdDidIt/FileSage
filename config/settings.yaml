@@ -1,0 +1,9 @@
+edward_mode: true
+verbosity: high
+ignore_patterns:
+  - __pycache__
+  - .git
+  - node_modules
+  - .venv
+  - venv
+  - env
